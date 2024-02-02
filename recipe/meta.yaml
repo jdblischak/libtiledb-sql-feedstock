@@ -30,7 +30,7 @@ requirements:
     - openssl
     - libaio  # [linux]
     - libiconv  # [osx]
-    - tiledb 2.19.*
+    - tiledb >=2.19.1,<2.20
     - libcurl
     - bison
     - zlib
