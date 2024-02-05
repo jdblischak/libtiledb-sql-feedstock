@@ -15,7 +15,7 @@ docker_image:
 krb5:
 - '1.21'
 libcurl:
-- '7'
+- '8'
 lz4_c:
 - 1.9.3
 ncurses:
@@ -31,6 +31,7 @@ xz:
 zip_keys:
 - - openssl
   - libcurl
+  - krb5
 zlib:
 - '1.2'
 zstd:
