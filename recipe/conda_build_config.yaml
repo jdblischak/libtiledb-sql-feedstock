@@ -13,3 +13,5 @@ libcurl:
 zip_keys:
   - 'openssl'
   - 'libcurl'
+krb5:
+  - 1.21
