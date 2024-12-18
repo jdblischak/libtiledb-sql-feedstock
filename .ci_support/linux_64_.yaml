@@ -23,7 +23,7 @@ libcurl:
 liblzma_devel:
 - '5'
 lz4_c:
-- '1.10'
+- 1.9.3
 ncurses:
 - '6'
 openssl:
