@@ -39,7 +39,7 @@ requirements:
     - lz4-c
     - libedit
     - ncurses
-    - liblzma-devel
+    - xz
     - krb5
     - pcre2
 

@@ -20,8 +20,6 @@ krb5:
 - '1.21'
 libcurl:
 - '8'
-liblzma_devel:
-- '5'
 lz4_c:
 - 1.9.3
 ncurses:
@@ -34,6 +32,8 @@ target_platform:
 - linux-64
 tiledb:
 - '2.27'
+xz:
+- '5'
 zlib:
 - '1'
 zstd:
