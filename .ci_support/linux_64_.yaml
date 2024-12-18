@@ -7,9 +7,9 @@ c_stdlib_version:
 cdt_name:
 - conda
 channel_sources:
-- conda-forge
+- tiledb/label/for-cloud,conda-forge
 channel_targets:
-- conda-forge main
+- tiledb for-cloud
 cxx_compiler:
 - gxx
 cxx_compiler_version:
@@ -20,10 +20,8 @@ krb5:
 - '1.21'
 libcurl:
 - '8'
-liblzma_devel:
-- '5'
 lz4_c:
-- '1.10'
+- 1.9.3
 ncurses:
 - '6'
 openssl:
@@ -34,6 +32,8 @@ target_platform:
 - linux-64
 tiledb:
 - '2.27'
+xz:
+- '5'
 zlib:
 - '1'
 zstd:
